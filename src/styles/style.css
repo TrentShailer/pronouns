@@ -1,0 +1,15 @@
+@import url("../common-frontend/src/styles/base.css");
+@import url("../common-frontend/src/styles/footer.css");
+@import url("../common-frontend/src/styles/link-button.css");
+@import url("../common-frontend/src/styles/typography.css");
+@import url("../common-frontend/src/styles/layout.css");
+@import url("../common-frontend/src/styles/alert.css");
+
+.pronoun-container {
+  border: solid 1px;
+  border-color: var(--surface0);
+  border-radius: 0.5rem;
+  background-color: var(--mantle);
+  padding: 0 2rem;
+  text-align: center;
+}
